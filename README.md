@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm **VibeSeer**
+# 👋 Hi there, I'm **DexZane**
 
 ### 🎓 Undergraduate Student | 🌱 Deep Learning Enthusiast
 
