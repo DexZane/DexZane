@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:1f6feb&fontColor=58a6ff&fontSize=45&fontAlignY=35&text=DexZane&desc=Postgraduate%20Researcher%20%7C%20Time%20Series%20%26%20Deep%20Learning&descSize=18&descAlignY=55&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontColor=fff&fontSize=45&fontAlignY=35&text=DexZane&animation=fadeIn" />
 
 <div align="center">
 
