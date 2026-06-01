@@ -1,125 +1,201 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:1f6feb&fontColor=58a6ff&fontSize=45&fontAlignY=35&text=DexZane&desc=Postgraduate%20Researcher%20%7C%20Time%20Series%20%26%20Deep%20Learning&descSize=18&descAlignY=55&animation=fadeIn" />
+
 <div align="center">
 
-# 👋 Hi there, I'm **DexZane**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E9%87%8D%E5%BA%86%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6+%7C+%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90;Exploring+the+Patterns+Hidden+in+Temporal+Data+%F0%9F%94%8D)](https://git.io/typing-svg)
 
-### 🎓 Postgraduate Student @ CQUT | 🌱 Time Series & Deep Learning
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1F7&center=true&vCenter=true&width=500&lines=Postgraduate+@+CQUT;Focusing+on+Time+Series;Deep+Learning+Enthusiast;Always+Debugging...+Always+Learning" />
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Researching%20&%20Coding&fontSize=35&fontAlignY=35&animation=fadeIn" />
+<a href="mailto:lovemyselfforever0724@gmail.com">
+  <img src="https://img.shields.io/badge/-lovemyselfforever0724-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=DexZane&color=1f6feb&style=flat-square&label=Profile+Views" />
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 关于我 (About Me)
-
-一名正在努力修行的研究生，来自重庆理工大学。我对数据背后的规律着迷，目前主要研究**时间序列分析**（预测、异常检测等），利用深度学习探索时序数据的奥秘。同时也会实现一些奇思妙想！
+## `> whoami`
 
 ```python
-class researcher:
+class DexZane:
+    """A curious mind navigating the world of temporal data."""
+
     def __init__(self):
-        self.name = "DexZane"
-        self.role = "🎓 Postgraduate Student @ CQUT"
-        self.focus = ["Time Series Forecasting", "Anomaly Detection"]
-        self.motto = "Stay Hungry, Stay Foolish"
-        
-    def current_state(self):
+        self.university  = "重庆理工大学 (CQUT)"
+        self.degree      = "硕士研究生 (M.S. Candidate)"
+        self.research    = ["Time Series Forecasting", "Anomaly Detection"]
+        self.interests   = ["Deep Learning", "Data Mining", "VibeCoding"]
+
+    @property
+    def daily_routine(self):
         return {
-            "learning": ["Advanced Time Series Models", "Paper Writing"],
-            "reading": "Deep Learning & Time Series Papers",
-            "mood": "☕️ Powered by Coffee & Running Experiments"
+            "morning"  : "☕ Coffee → Read Papers → Question Everything",
+            "afternoon": "🔬 Run Experiments → Debug → Repeat",
+            "evening"  : "📝 Write Notes → Push Code → Sleep (Maybe)",
         }
+
+    def motto(self):
+        return "Stay Hungry, Stay Foolish. 🚀"
 ```
 
------
+<br/>
 
-## 🛠️ 工具箱 (Tech Stack)
-
-### Languages & Frameworks
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
-  </a>
-</p>
-
-### Tools & Environments
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="latex" />
-  </a>
-</p>
-
------
-
-## 📈 个人数据与统计 (GitHub Stats)
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🐍 个人贡献图贪吃蛇 (Contribution Snake)
+<table>
+<tr>
+<td align="center" width="140">
+
+**Language**
+
+</td>
+<td align="center" width="140">
+
+**Framework**
+
+</td>
+<td align="center" width="140">
+
+**Editor**
+
+</td>
+<td align="center" width="140">
+
+**DevOps**
+
+</td>
+<td align="center" width="140">
+
+**Research**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="40" /><br/><sub>Python</sub>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=pytorch" width="40" /><br/><sub>PyTorch</sub>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="40" /><br/><sub>VS Code</sub>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="40" /><br/><sub>Git</sub>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=latex" width="40" /><br/><sub>LaTeX</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+&nbsp;
+
+</td>
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/numpy/4DABCF" width="40" /><br/><sub>NumPy</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" /><br/><sub>Jupyter</sub>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" width="40" /><br/><sub>Linux</sub>
+
+</td>
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/arxiv/B31B1B" width="40" /><br/><sub>arXiv</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&hide_border=true&langs_count=6" />
 </picture>
 
 <br/><br/>
 
-  <table border="0">
-    <tr>
-      <td align="center" valign="top">
-        <img height="170" src="https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&theme=radical&include_all_commits=true" alt="DexZane's github stats" />
-      </td>
-      <td align="center" valign="top">
-        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&theme=radical" alt="DexZane's top languages" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" colspan="2">
-        <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=DexZane&theme=radical" alt="DexZane's wakatime stats" />
-      </td>
-    </tr>
-  </table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DexZane&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=DexZane&hide_border=true" />
+</picture>
+
 </div>
 
------
+<br/>
 
-## 📫 联系与交流
-
-如果你也对 AI 和时间序列感兴趣，欢迎联系我！
-
-<div align="center">
-  <a href="mailto:lovemyselfforever0724@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
------
+## ⏱️ WakaTime
 
 <div align="center">
 
-*"代码不仅是逻辑的堆砌，更是观察世界的另一种方式。"* <br>
-*Code is not just logic, it's a way to observe the world.*
-<br><br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=DexZane&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=DexZane&hide_border=true&layout=compact" />
+</picture>
 
-<img src="https://komarev.com/ghpvc/?username=DexZane&color=blueviolet&style=flat-square&label=VISITORS" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+---
+
+*"代码不仅是逻辑的堆砌，更是观察世界的另一种方式。"*
+
+*Code is not just logic — it's another way to observe the world.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:161b22,100:1f6feb&section=footer" width="100%" />
 
 </div>
