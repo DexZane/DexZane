@@ -111,9 +111,9 @@ class DexZane:
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-3d-contrib/profile-gitblock.svg">
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-gitblock.svg">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-night-rainbow.svg" width="100%">
 </picture>
 
 <br/>
