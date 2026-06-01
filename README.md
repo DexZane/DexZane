@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=🔬+Time+Series+%7C+Deep+Learning+%7C+CQUT;📈+Forecasting+%2B+Anomaly+Detection;🤖+Exploring+Temporal+Patterns...;☕+Coffee-fueled+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=🔬+Time+Series+%7C+Deep+Learning+%7C+CQUT;📈+Forecasting+%2B+Anomaly+Detection;🤖+Exploring+Temporal+Patterns...;☕+Coffee-fueled+Researcher)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
 <br/>
 
 <!-- ──────────────────────── WHOAMI ──────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:161b22,100:0d2137&fontColor=58a6ff&fontSize=20&fontAlignY=55&text=%3E%20whoami&fontFamily=JetBrains+Mono&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:161b22,100:0d2137&fontColor=58a6ff&fontSize=22&fontAlignY=55&text=%3E%20whoami&fontFamily=DM+Sans&animation=fadeIn" />
 
 ```python
 class DexZane:
@@ -44,7 +44,7 @@ class DexZane:
 <br/>
 
 <!-- ──────────────────────── TECH STACK ──────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0d2137,100:0a1628&fontColor=4fc3f7&fontSize=20&fontAlignY=55&text=🛠️%20Tech%20Stack&fontFamily=Space+Grotesk&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0d2137,100:0a1628&fontColor=4fc3f7&fontSize=22&fontAlignY=55&text=🛠️%20Tech%20Stack&fontFamily=Lexend&animation=fadeIn" />
 
 <div align="center">
 
@@ -71,7 +71,7 @@ class DexZane:
 <br/>
 
 <!-- ──────────────────────── ANALYTICS ──────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0a1628,100:0d1f3c&fontColor=79c0ff&fontSize=20&fontAlignY=55&text=📊%20GitHub%20Analytics&fontFamily=Source+Code+Pro&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0a1628,100:0d1f3c&fontColor=79c0ff&fontSize=22&fontAlignY=55&text=📊%20GitHub%20Analytics&fontFamily=Plus+Jakarta+Sans&animation=fadeIn" />
 
 <div align="center">
 
@@ -96,7 +96,7 @@ class DexZane:
 <br/>
 
 <!-- ──────────────────────── CONTRIBUTIONS ──────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0d1f3c,100:0d1117&fontColor=3fb950&fontSize=20&fontAlignY=55&text=🐍%20Contribution%20Graph&fontFamily=Fira+Code&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0d1f3c,100:0d1117&fontColor=3fb950&fontSize=22&fontAlignY=55&text=🐍%20Contribution%20Graph&fontFamily=Lexend+Deca&animation=fadeIn" />
 
 <div align="center">
 
