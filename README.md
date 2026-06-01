@@ -138,22 +138,17 @@ class DexZane:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-</picture>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DexZane&theme=github_dark" />
 &nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&hide_border=true&langs_count=6" />
-</picture>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DexZane&theme=github_dark" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=DexZane&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=DexZane&hide_border=true" />
-</picture>
+<img src="https://streak-stats.demolab.com?user=DexZane&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexZane&theme=github_dark" width="100%" />
 
 </div>
 
@@ -163,10 +158,9 @@ class DexZane:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=DexZane&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=DexZane&hide_border=true&layout=compact" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DexZane&theme=github_dark" height="180" />
+
+> ⚠️ WakaTime 卡片需要在 [wakatime.com](https://wakatime.com) 注册并绑定 VS Code 插件后才会显示数据。
 
 </div>
 
@@ -181,6 +175,8 @@ class DexZane:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
+
+> 🐍 贡献蛇需在仓库 **Actions** 标签页手动触发一次 `Generate Snake Animation` 工作流后才会生成。
 
 </div>
 
