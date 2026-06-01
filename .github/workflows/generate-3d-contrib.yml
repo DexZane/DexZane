@@ -1,0 +1,37 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # 每天凌晨 2 点自动运行
+  workflow_dispatch:        # 支持手动触发
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Calendar
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: DexZane
+          MAX_REPOS: 10
+          SETTING_JSON: |
+            {
+              "backgroundColor": "#0d1117",
+              "foregroundColor": "#58a6ff",
+              "dotColor": "#1f6feb",
+              "lineColor": "#30363d"
+            }
+
+      - name: Upload to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: profile-3d-contrib
+          keep_history: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

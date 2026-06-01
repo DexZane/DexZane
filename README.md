@@ -1,20 +1,20 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&fontColor=fff&fontSize=45&fontAlignY=35&text=DexZane&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,30:0d2137,60:0a3d62,100:1f6feb&fontColor=58a6ff&fontSize=50&fontAlignY=40&text=DexZane&desc=Postgraduate%20%40%20CQUT%20%7C%20Time%20Series%20Researcher&descSize=16&descAlignY=62&animation=fadeIn&stroke=1f6feb&strokeWidth=2" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E9%87%8D%E5%BA%86%E7%90%86%E5%B7%A5%E5%A4%A7%E5%AD%A6+%7C+%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%88%86%E6%9E%90;Exploring+the+Patterns+Hidden+in+Temporal+Data+%F0%9F%94%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=🔬+Time+Series+%7C+Deep+Learning+%7C+CQUT;📈+Forecasting+%2B+Anomaly+Detection;🤖+Exploring+Temporal+Patterns...;☕+Coffee-fueled+Researcher)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="mailto:lovemyselfforever0724@gmail.com">
-  <img src="https://img.shields.io/badge/-lovemyselfforever0724-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-lovemyselfforever0724-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=DexZane&color=1f6feb&style=flat-square&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=DexZane&color=1f6feb&style=for-the-badge&label=VISITORS" />
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## `> whoami`
 
@@ -40,99 +40,29 @@ class DexZane:
         return "Stay Hungry, Stay Foolish. 🚀"
 ```
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="140">
+<img src="https://skillicons.dev/icons?i=python,pytorch,vscode,git,linux,latex&theme=dark&perline=6" />
 
-**Language**
+<br/><br/>
 
-</td>
-<td align="center" width="140">
-
-**Framework**
-
-</td>
-<td align="center" width="140">
-
-**Editor**
-
-</td>
-<td align="center" width="140">
-
-**DevOps**
-
-</td>
-<td align="center" width="140">
-
-**Research**
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="40" /><br/><sub>Python</sub>
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=pytorch" width="40" /><br/><sub>PyTorch</sub>
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="40" /><br/><sub>VS Code</sub>
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="40" /><br/><sub>Git</sub>
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=latex" width="40" /><br/><sub>LaTeX</sub>
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-&nbsp;
-
-</td>
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/numpy/4DABCF" width="40" /><br/><sub>NumPy</sub>
-
-</td>
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" /><br/><sub>Jupyter</sub>
-
-</td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=linux" width="40" /><br/><sub>Linux</sub>
-
-</td>
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/arxiv/B31B1B" width="40" /><br/><sub>arXiv</sub>
-
-</td>
-</tr>
-</table>
+<img src="https://cdn.simpleicons.org/numpy/4DABCF" width="45" title="NumPy" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" width="45" title="Pandas" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="45" title="Jupyter" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" title="Scikit-learn" />
+&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/arxiv/B31B1B" width="45" title="arXiv" />
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -152,26 +82,30 @@ class DexZane:
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## ⏱️ WakaTime
+## 🌐 3D Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DexZane&theme=github_dark" height="180" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-3d-contrib/profile-gitblock.svg">
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
@@ -180,14 +114,10 @@ class DexZane:
 
 <div align="center">
 
----
-
-*"代码不仅是逻辑的堆砌，更是观察世界的另一种方式。"*
-
-*Code is not just logic — it's another way to observe the world.*
+*「代码不仅是逻辑的堆砌，更是观察世界的另一种方式。」*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0d1117,50:161b22,100:1f6feb&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=true" width="100%" />
 
 </div>
