@@ -18,7 +18,7 @@ jobs:
       - name: Generate Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: mimanchi-dongze
+          github_user_name: DexZane
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark

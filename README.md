@@ -72,6 +72,17 @@ class researcher:
 ## 📈 个人数据与统计 (GitHub Stats)
 
 <div align="center">
+
+### 🐍 个人贡献图贪吃蛇 (Contribution Snake)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
   <table border="0">
     <tr>
       <td align="center" valign="top">
