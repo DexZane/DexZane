@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=🔬+Time+Series+%7C+Deep+Learning+%7C+CQUT;📈+Forecasting+%2B+Anomaly+Detection;🤖+Exploring+Temporal+Patterns...;☕+Coffee-fueled+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=🔬+Time+Series+%7C+Deep+Learning+%7C+CQUT;📈+Forecasting+%2B+Anomaly+Detection;🤖+Exploring+Temporal+Patterns...;☕+Coffee-fueled+Researcher)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,9 +14,10 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## `> whoami`
+<!-- ──────────────────────── WHOAMI ──────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:161b22,100:0d2137&fontColor=58a6ff&fontSize=20&fontAlignY=55&text=%3E%20whoami&fontFamily=JetBrains+Mono&animation=fadeIn" />
 
 ```python
 class DexZane:
@@ -40,11 +41,14 @@ class DexZane:
         return "Stay Hungry, Stay Foolish. 🚀"
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🛠️ Tech Stack
+<!-- ──────────────────────── TECH STACK ──────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0d2137,100:0a1628&fontColor=4fc3f7&fontSize=20&fontAlignY=55&text=🛠️%20Tech%20Stack&fontFamily=Space+Grotesk&animation=fadeIn" />
 
 <div align="center">
+
+<br/>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,vscode,git,linux,latex&theme=dark&perline=6" />
 
@@ -60,13 +64,18 @@ class DexZane:
 &nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/arxiv/B31B1B" width="45" title="arXiv" />
 
+<br/>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 📊 GitHub Analytics
+<!-- ──────────────────────── ANALYTICS ──────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0a1628,100:0d1f3c&fontColor=79c0ff&fontSize=20&fontAlignY=55&text=📊%20GitHub%20Analytics&fontFamily=Source+Code+Pro&animation=fadeIn" />
 
 <div align="center">
+
+<br/>
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DexZane&theme=github_dark" />
 &nbsp;&nbsp;
@@ -80,13 +89,26 @@ class DexZane:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexZane&theme=github_dark" width="100%" />
 
+<br/>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
-## 🌐 3D Contribution Graph
+<!-- ──────────────────────── CONTRIBUTIONS ──────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0d1f3c,100:0d1117&fontColor=3fb950&fontSize=20&fontAlignY=55&text=🐍%20Contribution%20Graph&fontFamily=Fira+Code&animation=fadeIn" />
 
 <div align="center">
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg" width="100%">
+</picture>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-3d-contrib/profile-night-rainbow.svg">
@@ -94,19 +116,7 @@ class DexZane:
   <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%">
 </picture>
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
+<br/>
 
 </div>
 
