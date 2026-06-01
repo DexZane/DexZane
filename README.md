@@ -160,8 +160,6 @@ class DexZane:
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DexZane&theme=github_dark" height="180" />
 
-> ⚠️ WakaTime 卡片需要在 [wakatime.com](https://wakatime.com) 注册并绑定 VS Code 插件后才会显示数据。
-
 </div>
 
 <br/>
@@ -175,8 +173,6 @@ class DexZane:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
-
-> 🐍 贡献蛇需在仓库 **Actions** 标签页手动触发一次 `Generate Snake Animation` 工作流后才会生成。
 
 </div>
 
