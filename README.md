@@ -1,14 +1,14 @@
 <div align="center">
-  
+
 # 👋 Hi there, I'm **DexZane**
 
-### 🎓 Undergraduate Student | 🌱 Deep Learning Enthusiast
+### 🎓 Postgraduate Student @ CQUT | 🌱 Time Series & Deep Learning
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1F7&center=true&vCenter=true&width=500&lines=CS+Major+@+University;Exploring+Computer+Vision+&+Time+Series;Coding+for+Fun+and+Growth;Always+Debugging...+Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D1F7&center=true&vCenter=true&width=500&lines=Postgraduate+@+CQUT;Focusing+on+Time+Series;Deep+Learning+Enthusiast;Always+Debugging...+Always+Learning" />
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Coding%20My%20Way%20Up&fontSize=35&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Researching%20&%20Coding&fontSize=35&fontAlignY=35&animation=fadeIn" />
 
 </div>
 
@@ -16,95 +16,89 @@
 
 ## 🧑‍💻 关于我 (About Me)
 
-一名正在努力打怪升级的本科生。我对数据背后的规律着迷，目前正尝试用深度学习去“看懂”图像和“预测”未来。同时也会利用VibeCoding去实现自己的奇思妙想！
+一名正在努力修行的研究生，来自重庆理工大学。我对数据背后的规律着迷，目前主要研究**时间序列分析**（预测、异常检测等），利用深度学习探索时序数据的奥秘。同时也会实现一些奇思妙想！
 
 ```python
-class Jiaulo:
+class researcher:
     def __init__(self):
-        self.status = "🎓 Undergraduate Student (CS Major)"
-        self.passion = ["Computer Vision", "Time Series Analysis"]
+        self.name = "DexZane"
+        self.role = "🎓 Postgraduate Student @ CQUT"
+        self.focus = ["Time Series Forecasting", "Anomaly Detection"]
         self.motto = "Stay Hungry, Stay Foolish"
         
-    def get_current_state(self):
+    def current_state(self):
         return {
-            "learning": ["Transformer Architecture", "YOLO Deployment"],
-            "reading": "Deep Learning Papers (Trying to understand!)",
-            "mood": "☕️ Powered by Coffee & Bug Fixing"
+            "learning": ["Advanced Time Series Models", "Paper Writing"],
+            "reading": "Deep Learning & Time Series Papers",
+            "mood": "☕️ Powered by Coffee & Running Experiments"
         }
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's learn together.")
-
-me = Jiaulo()
-me.say_hi()
-````
+```
 
 -----
 
 ## 🛠️ 工具箱 (Tech Stack)
 
-虽然还在学习中，但我习惯使用以下工具来构建我的想法：
+### Languages & Frameworks
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch" />
+  </a>
+</p>
 
-<div align="center">
-
-| **Core** | **Frameworks** | **Tools** |
-| :---: | :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <br> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) <br> ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-
-</div>
-
------
-
-## 🚀 学习路线与挑战 (My Learning Journey)
-
-我目前并不做高深的研究，而是通过复现经典模型来巩固基础。
-
-<div align="center">
-
-### 📈 时间序列 (Time Series)
-
-Trying to predict the future (literally).
-<br>
-`Transformer` · `LSTM` · `Anomaly Detection`
-
-### 👁️ 计算机视觉 (CV)
-
-Teaching machines to see the world.
-<br>
-`YOLO Series` · `Image Augmentation` · `Basic OCR`
-
-</div>
+### Tools & Environments
+<p align="left">
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="jupyter" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=latex&logoColor=white" alt="latex" />
+  </a>
+</p>
 
 -----
 
-## ⚡ 编码状态 (Coding Mode)
-
-虽然不仅有 Bug，还有脱发，但我仍在坚持！
+## 📈 个人数据与统计 (GitHub Stats)
 
 <div align="center">
-    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400" />
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img height="170" src="https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&theme=radical&include_all_commits=true" alt="DexZane's github stats" />
+      </td>
+      <td align="center" valign="top">
+        <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&theme=radical" alt="DexZane's top languages" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" colspan="2">
+        <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=DexZane&theme=radical" alt="DexZane's wakatime stats" />
+      </td>
+    </tr>
+  </table>
 </div>
-
------
-
-## 📚 正在啃的书 & 资源
-
-  - 📖 [Dive into Deep Learning (动手学深度学习)](https://d2l.ai/) - *强烈推荐的入门书*
-  - 📘 [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - *时序圣经*
-  - 📄 [Papers with Code](https://paperswithcode.com/) - *努力读懂论文中*
 
 -----
 
 ## 📫 联系与交流
 
-如果你也对 AI 感兴趣，或者有适合新手的项目推荐，欢迎联系我！
+如果你也对 AI 和时间序列感兴趣，欢迎联系我！
 
 <div align="center">
-
-<a href="mailto:lovemyselfforever0724@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <a href="mailto:lovemyselfforever0724@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 -----
@@ -113,13 +107,8 @@ Teaching machines to see the world.
 
 *"代码不仅是逻辑的堆砌，更是观察世界的另一种方式。"* <br>
 *Code is not just logic, it's a way to observe the world.*
-<br>
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=mimanchi-dongze&color=blueviolet&style=flat-square&label=VISITORS" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=DexZane&color=blueviolet&style=flat-square&label=VISITORS" />
 
 </div>
-
-</div>
-
-```
