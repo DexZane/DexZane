@@ -1,133 +1,86 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d1117,30:0d2137,60:0a3d62,100:1f6feb&fontColor=58a6ff&fontSize=50&fontAlignY=40&text=DexZane&desc=Postgraduate%20%40%20CQUT%20%7C%20Time%20Series%20Researcher&descSize=16&descAlignY=62&animation=fadeIn&stroke=1f6feb&strokeWidth=2" />
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=22&duration=2500&pause=800&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=🔬+Time+Series+%7C+Deep+Learning+%7C+CQUT;📈+Forecasting+%2B+Anomaly+Detection;🤖+Exploring+Temporal+Patterns...;☕+Coffee-fueled+Researcher)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="mailto:lovemyselfforever0724@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-lovemyselfforever0724-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=DexZane&color=1f6feb&style=for-the-badge&label=VISITORS" />
+<h1 style="font-family:Georgia,'Times New Roman',serif; font-size:36px; font-weight:400; letter-spacing:6px; margin-bottom:0;">DexZane</h1>
+
+<p style="font-size:12px; color:#9a9a9a; letter-spacing:4px; margin-top:8px;">
+S P A C E B O R N E &nbsp; R E M O T E &nbsp; S E N S I N G
+</p>
+
+<p style="font-size:14px; color:#666; font-style:italic; font-family:Georgia,serif;">
+M.S. Candidate · Chongqing University of Technology
+</p>
+
+<br/>
 
 </div>
 
 <br/>
 
-<!-- ──────────────────────── WHOAMI ──────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:161b22,100:0d2137&fontColor=58a6ff&fontSize=22&fontAlignY=55&text=%3E%20whoami&fontFamily=DM+Sans&animation=fadeIn" />
+<h3 style="font-family:Georgia,serif; font-size:19px; font-weight:400; letter-spacing:1px; border-bottom:1px solid #eaeaea; padding-bottom:6px;">About</h3>
 
-```python
-class DexZane:
-    """A curious mind navigating the world of temporal data."""
+<p style="font-size:15px; line-height:1.85; color:#333;">
+I work on <b>spaceborne remote sensing detection</b> — turning satellite imagery into
+understandable information about the Earth's surface. I care about building pipelines
+that are <i>reproducible</i>, not merely accurate.
+</p>
 
-    def __init__(self):
-        self.university  = "重庆理工大学 (CQUT)"
-        self.degree      = "硕士研究生 (M.S. Candidate)"
-        self.research    = ["Time Series Forecasting", "Anomaly Detection"]
-        self.interests   = ["Deep Learning", "Data Mining", "VibeCoding"]
-
-    @property
-    def daily_routine(self):
-        return {
-            "morning"  : "☕ Coffee → Read Papers → Question Everything",
-            "afternoon": "🔬 Run Experiments → Debug → Repeat",
-            "evening"  : "📝 Write Notes → Push Code → Sleep (Maybe)",
-        }
-
-    def motto(self):
-        return "Stay Hungry, Stay Foolish. 🚀"
-```
+<p>
+<img src="https://img.shields.io/badge/Affiliation-CQUT-1a1a1a?style=flat" />
+<img src="https://img.shields.io/badge/Role-M.S._Candidate-1a1a1a?style=flat" />
+<img src="https://img.shields.io/badge/Focus-Detection_·_Change_·_Interpretation-1a1a1a?style=flat" />
+</p>
 
 <br/>
 
-<!-- ──────────────────────── TECH STACK ──────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0d2137,100:0a1628&fontColor=4fc3f7&fontSize=22&fontAlignY=55&text=🛠️%20Tech%20Stack&fontFamily=Lexend&animation=fadeIn" />
+<h3 style="font-family:Georgia,serif; font-size:19px; font-weight:400; letter-spacing:1px; border-bottom:1px solid #eaeaea; padding-bottom:6px;">Research Interests</h3>
+
+<ul style="font-size:15px; line-height:1.9; color:#333;">
+  <li>Object detection in satellite &amp; aerial imagery</li>
+  <li>Multi-temporal change detection</li>
+  <li>Scene classification and semantic interpretation</li>
+</ul>
+
+<br/>
+
+<h3 style="font-family:Georgia,serif; font-size:19px; font-weight:400; letter-spacing:1px; border-bottom:1px solid #eaeaea; padding-bottom:6px;">Stack</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Python-1a1a1a?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-1a1a1a?style=flat&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-1a1a1a?style=flat&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/GDAL-1a1a1a?style=flat&logo=gdal&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-1a1a1a?style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-1a1a1a?style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/QGIS-1a1a1a?style=flat&logo=qgis&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-1a1a1a?style=flat&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/LaTeX-1a1a1a?style=flat&logo=latex&logoColor=white" />
+</p>
+
+<br/>
+
+<h3 style="font-family:Georgia,serif; font-size:19px; font-weight:400; letter-spacing:1px; border-bottom:1px solid #eaeaea; padding-bottom:6px;">GitHub</h3>
 
 <div align="center">
 
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1a1a1a&text_color=444444&icon_color=1a1a1a" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&hide_border=true&bg_color=ffffff&title_color=1a1a1a&text_color=444444" />
+
+</div>
+
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,vscode,git,linux,latex&theme=dark&perline=6" />
+<h3 style="font-family:Georgia,serif; font-size:19px; font-weight:400; letter-spacing:1px; border-bottom:1px solid #eaeaea; padding-bottom:6px;">Contact</h3>
+
+<p style="font-size:15px;"><code>lovemyselfforever0724@gmail.com</code></p>
 
 <br/><br/>
 
-<img src="https://cdn.simpleicons.org/numpy/4DABCF" width="45" title="NumPy" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/pandas/150458" width="45" title="Pandas" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="45" title="Jupyter" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="45" title="Scikit-learn" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/arxiv/B31B1B" width="45" title="arXiv" />
-
-<br/>
-
-</div>
-
-<br/>
-
-<!-- ──────────────────────── ANALYTICS ──────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0a1628,100:0d1f3c&fontColor=79c0ff&fontSize=22&fontAlignY=55&text=📊%20GitHub%20Analytics&fontFamily=Plus+Jakarta+Sans&animation=fadeIn" />
-
 <div align="center">
 
-<br/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DexZane&theme=github_dark" />
-&nbsp;&nbsp;
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DexZane&theme=github_dark" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=DexZane&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=484f58" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DexZane&theme=github_dark" width="100%" />
-
-<br/>
-
-</div>
-
-<br/>
-
-<!-- ──────────────────────── CONTRIBUTIONS ──────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:0d1f3c,100:0d1117&fontColor=3fb950&fontSize=22&fontAlignY=55&text=🐍%20Contribution%20Graph&fontFamily=Lexend+Deca&animation=fadeIn" />
-
-<div align="center">
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DexZane/DexZane/output/github-contribution-grid-snake-dark.svg" width="100%">
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-gitblock.svg">
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/DexZane/DexZane/output/profile-night-rainbow.svg" width="100%">
-</picture>
-
-<br/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-*「代码不仅是逻辑的堆砌，更是观察世界的另一种方式。」*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer&reversal=true" width="100%" />
+<p style="font-family:Georgia,serif; font-style:italic; font-size:14px; color:#777; letter-spacing:1px;">
+"Observe the Earth, decode the signal."
+</p>
 
 </div>
