@@ -97,14 +97,17 @@ My interests lie in building remote sensing pipelines that are not only accurate
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2c5aa0&icon_color=2c5aa0&text_color=1a1a1a" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&hide_border=true&bg_color=ffffff&title_color=2c5aa0&text_color=1a1a1a" />
+![](https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2c5aa0&icon_color=2c5aa0&text_color=1a1a1a&count_private=true&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&hide_border=true&bg_color=ffffff&title_color=2c5aa0&text_color=1a1a1a&langs_count=8)
 
 </div>
 
 <div align="center">
 <br/>
-<img src="https://streak-stats.demolab.com?user=DexZane&hide_border=true&background=FFFFFF&ring=2c5aa0&fire=2c5aa0&currStreakLabel=2c5aa0&sideLabels=444444&dates=777777&sideNums=2c5aa0&currStreakNum=2c5aa0" />
+
+![](https://streak-stats.demolab.com?user=DexZane&hide_border=true&background=FFFFFF&ring=2c5aa0&fire=2c5aa0&currStreakLabel=2c5aa0&sideLabels=444444&dates=777777&sideNums=2c5aa0&currStreakNum=2c5aa0)
+
 </div>
 
 ---
