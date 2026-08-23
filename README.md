@@ -1,213 +1,118 @@
 <div align="center">
 
-<br/>
-
-# DexZane
-
-<p>
-  <sub>S P A C E B O R N E &nbsp; R E M O T E &nbsp; S E N S I N G</sub>
-</p>
-
-<p>
-  <i>M.S. Candidate · Chongqing University of Technology</i>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Affiliation-CQUT-2c5aa0?style=flat&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-M.S._Candidate-2c5aa0?style=flat" />
-  <img src="https://img.shields.io/badge/Focus-Remote_Sensing_Detection-2c5aa0?style=flat" />
-  <img src="https://komarev.com/ghpvc/?username=DexZane&color=2c5aa0&style=flat&label=Profile+Views" />
-</p>
-
-<p>
-  <i>"Observe the Earth, decode the signal."</i>
-</p>
-
-<br/>
-
-</div>
-
----
-
-## About Me
-
-I work on **spaceborne remote sensing detection**, with a focus on transforming satellite and aerial imagery into structured, interpretable information about the Earth's surface.
-
-My interests lie in building remote sensing pipelines that are not only accurate, but also **reproducible**, **scalable**, and meaningful for real-world geospatial understanding.
-
----
-
-## Research Interests
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Detection & Recognition**
-- Object detection in satellite imagery
-- Scene classification and semantic interpretation
-- Deep learning for geospatial image analysis
-
-</td>
-<td width="50%" valign="top">
-
-**Analysis & Applications**
-- Multi-temporal change detection
-- Land use and land cover mapping
-- Reproducible remote sensing workflows
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-
-**Deep Learning & Computer Vision**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-**Geospatial Tools**
-
-![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=flat&logo=gdal&logoColor=white)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat&logo=qgis&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat&logo=google-earth&logoColor=white)
-
-**Data Science & Tools**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=DexZane&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2c5aa0&icon_color=2c5aa0&text_color=1a1a1a&count_private=true&include_all_commits=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexZane&layout=compact&hide_border=true&bg_color=ffffff&title_color=2c5aa0&text_color=1a1a1a&langs_count=8)
-
-</div>
-
-<div align="center">
-<br/>
-
-![](https://streak-stats.demolab.com?user=DexZane&hide_border=true&background=FFFFFF&ring=2c5aa0&fire=2c5aa0&currStreakLabel=2c5aa0&sideLabels=444444&dates=777777&sideNums=2c5aa0&currStreakNum=2c5aa0)
-
-</div>
-
----
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/DexZane?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-2c5aa0?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<!-- 
-取消下面的注释并添加你的重点项目：
-
-<table>
-<tr>
-<td width="50%">
-
-### Project Name 1
-Brief description of your satellite imagery detection project.
-- Key tech: PyTorch, GDAL
-- Highlights: Real-time detection, 95%+ accuracy
-
-</td>
-<td width="50%">
-
-### Project Name 2
-Change detection pipeline for multi-temporal analysis.
-- Key tech: Python, OpenCV
-- Highlights: Scalable, reproducible workflow
-
-</td>
-</tr>
-</table>
--->
-
----
-
-## Research & Publications
-
-<!-- 
-添加你的研究成果：
-
-**Publications**
-- Paper title, *Conference/Journal*, Year. [Link]
-
-**Preprints**
-- Preprint title, *ArXiv*, Year. [Link]
-
-**Thesis**
-- Working on: [Brief thesis title/topic]
--->
-
-*Research outputs coming soon...*
-
----
-
-## Education & Experience
-
-**M.S. in Remote Sensing** (In Progress)  
-Chongqing University of Technology
-
-*Focus: Spaceborne remote sensing detection and geospatial image analysis*
-
----
-
-## Contact & Links
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12&height=140&section=header&text=DexZane&fontSize=40&fontColor=ffffff&fontAlignY=38" width="100%" />
 
 <p align="center">
-  <a href="mailto:lovemyselfforever0724@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <!-- 取消注释添加其他社交链接：
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="YOUR_RESEARCHGATE_URL">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" />
-  </a>
-  <a href="YOUR_GOOGLE_SCHOLAR_URL">
-    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-  -->
+  <b>星载遥感 · 计算机视觉 · 地理空间智能</b>
 </p>
+
+<p align="center">
+  <i>重庆理工大学 · 硕士研究生</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/培养单位-重庆理工大学-FF5722?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/学术身份-硕士在读-00BCD4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/研究方向-星载遥感检测-9C27B0?style=for-the-badge&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=DexZane&color=FF4081&style=for-the-badge&logoColor=white" />
+</p>
+
+> *“观测地球，解析信号 —— 让遥感数据焕发地学智能的无限可能。”*
+
+</div>
 
 ---
 
+### 研究方向
+
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="left">目标感知与细粒度识别</th>
+      <th width="50%" align="left">时序解译与地学应用</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <p><img src="https://img.shields.io/badge/方向-旋转框检测_OBB-FF5252?style=flat-square" /></p>
+        <ul>
+          <li>高分辨率遥感图像倾斜与密集排列目标精准定位</li>
+        </ul>
+        <p><img src="https://img.shields.io/badge/方向-弱小目标增强-FF7A00?style=flat-square" /></p>
+        <ul>
+          <li>多尺度特征融合与复杂背景弱小目标高召回提取</li>
+        </ul>
+        <p><img src="https://img.shields.io/badge/方向-轻量化与部署-00C853?style=flat-square" /></p>
+        <ul>
+          <li>机载/星载嵌入式平台的边缘端实时推理与压缩</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <p><img src="https://img.shields.io/badge/方向-变化检测_CD-00B0FF?style=flat-square" /></p>
+        <ul>
+          <li>双时相/多时相遥感地表动态演变与伪变化过滤</li>
+        </ul>
+        <p><img src="https://img.shields.io/badge/方向-地表覆盖_LULC-7C4DFF?style=flat-square" /></p>
+        <ul>
+          <li>大区域自动化土地覆盖制图与精细语义分割</li>
+        </ul>
+        <p><img src="https://img.shields.io/badge/方向-空间数据管线-E040FB?style=flat-square" /></p>
+        <ul>
+          <li>大范围瓦片切片、高并发处理与地理坐标回填</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 代表项目
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/DexZane?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-FF5722?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 学术成果
+
+<!-- 成果发表时在此处补充：
+- 论文题目, 发表期刊/会议名称, 年份. [链接]
+-->
+
+<div align="center">
+  <img src="https://img.shields.io/badge/学术状态-成果整理与撰写中-00B0FF?style=flat-square" />
+</div>
+
+---
+
+### 教育背景
+
+**工学硕士（在读）**  
+重庆理工大学  
+*研究方向：星载遥感信息解译与计算机视觉*
+
+---
+
+### 联络交流
+
 <div align="center">
 
-<sub>Last updated: July 2026</sub>
+<a href="mailto:lovemyselfforever0724@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-lovemyselfforever0724@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/DexZane">
+  <img src="https://img.shields.io/badge/GitHub-DexZane-24292E?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br/><br/>
 
-**⭐ If you find my work interesting, feel free to star my repositories!**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2c5aa0&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,10,12&height=100&section=footer" width="100%" />
 
 </div>
