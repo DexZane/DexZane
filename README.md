@@ -43,10 +43,6 @@
         <ul>
           <li>多尺度特征融合与复杂背景弱小目标高召回提取</li>
         </ul>
-        <p><img src="https://img.shields.io/badge/方向-轻量化与部署-00C853?style=flat-square" /></p>
-        <ul>
-          <li>机载/星载嵌入式平台的边缘端实时推理与压缩</li>
-        </ul>
       </td>
       <td valign="top">
         <p><img src="https://img.shields.io/badge/方向-变化检测_CD-00B0FF?style=flat-square" /></p>
@@ -58,9 +54,6 @@
           <li>大区域自动化土地覆盖制图与精细语义分割</li>
         </ul>
         <p><img src="https://img.shields.io/badge/方向-空间数据管线-E040FB?style=flat-square" /></p>
-        <ul>
-          <li>大范围瓦片切片、高并发处理与地理坐标回填</li>
-        </ul>
       </td>
     </tr>
   </tbody>
