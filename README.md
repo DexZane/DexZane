@@ -53,7 +53,6 @@
         <ul>
           <li>大区域自动化土地覆盖制图与精细语义分割</li>
         </ul>
-        <p><img src="https://img.shields.io/badge/方向-空间数据管线-E040FB?style=flat-square" /></p>
       </td>
     </tr>
   </tbody>
